@@ -1,5 +1,5 @@
---temp-output:C:\Users\dexte\Source\Repos\EstateAgency\EstateAgency\src\EstateAgency\obj\Debug\netcoreapp1.1\
---out:C:\Users\dexte\Source\Repos\EstateAgency\EstateAgency\src\EstateAgency\bin\Debug\netcoreapp1.1\EstateAgency.dll
+--temp-output:C:\Users\dexte\Source\Repos\EstateAgency\EstateAgency\src\EstateAgency\bin\src\EstateAgency\obj\Debug\netcoreapp1.1\
+--out:C:\Users\dexte\Source\Repos\EstateAgency\EstateAgency\src\EstateAgency\bin\src\EstateAgency\bin\Debug\netcoreapp1.1\EstateAgency.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_1
@@ -78,11 +78,13 @@
 --reference:C:\Users\dexte\.nuget\packages\Microsoft.DotNet.ProjectModel\1.0.0-rc3-003121\lib\netstandard1.6\Microsoft.DotNet.ProjectModel.dll
 --reference:C:\Users\dexte\.nuget\packages\Microsoft.DotNet.ProjectModel.Loader\1.0.0-preview2-003121\lib\netstandard1.6\Microsoft.DotNet.ProjectModel.Loader.dll
 --reference:C:\Users\dexte\.nuget\packages\Microsoft.EntityFrameworkCore\1.1.0\lib\netstandard1.3\Microsoft.EntityFrameworkCore.dll
+--reference:C:\Users\dexte\.nuget\packages\Microsoft.EntityFrameworkCore.Design\1.0.0-preview2-final\lib\netcoreapp1.0\Microsoft.EntityFrameworkCore.Design.dll
+--reference:C:\Users\dexte\.nuget\packages\Microsoft.EntityFrameworkCore.Design.Core\1.0.0-preview2-final\lib\netstandard1.3\Microsoft.EntityFrameworkCore.Design.Core.dll
 --reference:C:\Users\dexte\.nuget\packages\Microsoft.EntityFrameworkCore.Relational\1.1.0\lib\netstandard1.3\Microsoft.EntityFrameworkCore.Relational.dll
 --reference:C:\Users\dexte\.nuget\packages\Microsoft.EntityFrameworkCore.Relational.Design\1.1.0\lib\netstandard1.3\Microsoft.EntityFrameworkCore.Relational.Design.dll
 --reference:C:\Users\dexte\.nuget\packages\Microsoft.EntityFrameworkCore.SqlServer\1.1.0\lib\netstandard1.3\Microsoft.EntityFrameworkCore.SqlServer.dll
 --reference:C:\Users\dexte\.nuget\packages\Microsoft.EntityFrameworkCore.SqlServer.Design\1.1.0\lib\netstandard1.3\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
---reference:C:\Users\dexte\.nuget\packages\Microsoft.EntityFrameworkCore.Tools.DotNet\1.1.0-preview4-final\lib\netcoreapp1.0\dotnet-ef.dll
+--reference:C:\Users\dexte\.nuget\packages\Microsoft.EntityFrameworkCore.Tools\1.0.0-preview2-final\lib\netcoreapp1.0\dotnet-ef.dll
 --reference:C:\Users\dexte\.nuget\packages\Microsoft.Extensions.Caching.Abstractions\1.1.0\lib\netstandard1.0\Microsoft.Extensions.Caching.Abstractions.dll
 --reference:C:\Users\dexte\.nuget\packages\Microsoft.Extensions.Caching.Memory\1.1.0\lib\netstandard1.3\Microsoft.Extensions.Caching.Memory.dll
 --reference:C:\Users\dexte\.nuget\packages\Microsoft.Extensions.CommandLineUtils\1.0.0\lib\netstandard1.3\Microsoft.Extensions.CommandLineUtils.dll
@@ -231,7 +233,7 @@
 --reference:C:\Users\dexte\.nuget\packages\System.Threading.Timer\4.3.0\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\dexte\.nuget\packages\System.Xml.ReaderWriter\4.3.0\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\dexte\.nuget\packages\System.Xml.XDocument\4.3.0\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"C:\Users\dexte\Source\Repos\EstateAgency\EstateAgency\src\EstateAgency\obj\Debug\netcoreapp1.1\EstateAgencydotnet-compile.deps.json",EstateAgency.deps.json
+--resource:"C:\Users\dexte\Source\Repos\EstateAgency\EstateAgency\src\EstateAgency\bin\src\EstateAgency\obj\Debug\netcoreapp1.1\EstateAgencydotnet-compile.deps.json",EstateAgency.deps.json
 C:\Users\dexte\Source\Repos\EstateAgency\EstateAgency\src\EstateAgency\Program.cs
 C:\Users\dexte\Source\Repos\EstateAgency\EstateAgency\src\EstateAgency\Startup.cs
 C:\Users\dexte\Source\Repos\EstateAgency\EstateAgency\src\EstateAgency\Controllers\AccountController.cs
